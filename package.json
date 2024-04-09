@@ -1,0 +1,19 @@
+{
+  "name": "final_project",
+  "version": "1.0.0",
+  "description": "Final SODV1201-Final Project",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Glenn, Gin, Stephen",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.2.4",
+    "nodemon": "^3.1.0"
+  }
+}
